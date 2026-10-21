@@ -1,0 +1,4 @@
+# Exclude generated Flutter desktop code from GitHub language statistics
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
